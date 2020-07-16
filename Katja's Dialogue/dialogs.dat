@@ -1,0 +1,27 @@
+dialog{
+  id = "complete",
+  text = [[
+Oh good you found your
+way out. I realized just
+now it'd be bad if you got
+lost and died or something.
+That would've been awkward.
+But you made it. So. Uh.
+Good job.
+]],
+}
+
+dialog{
+  id = "mess",
+  text = [[
+Hmm. a guest. well I guess I should
+do something to entertain you. 
+...
+uh. let's see. 
+there's five dollars on the other 
+side of this room. Assuming you 
+can find your way to the other 
+side, it's yours. 
+]],
+}
+
