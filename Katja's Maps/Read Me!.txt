@@ -1,0 +1,1 @@
+This one's easy, take the .dat file AND the lua code file (this game has a teeny bit o' code so yah need that one too) and put them in the maps file.
