@@ -1,1 +1,1 @@
-These are the dialogue files the game draws from, take them and move to the folder "text" folder in the Solarus quest (data > langauges > en > text)
+These are the dialogue files the game draws from, take them and move to the "text" folder in the Solarus quest (data > langauges > en > text)
